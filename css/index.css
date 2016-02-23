@@ -1,0 +1,24 @@
+.panel-heading {
+    color: #fff;
+}
+.panel-green{
+    background-color: #5cb85c;
+}
+.panel-green > a {
+    color: #5cb85c;
+}
+.panel-yellow {
+    background-color: #f0ad4e;
+}
+.panel-yellow > a {
+    color: #f0ad4e;
+}
+.panel-red {
+    background-color: #d9534f;
+}
+.panel-red > a {
+    color: #d9534f;
+}
+.huge {
+    font-size: 40px;
+}
