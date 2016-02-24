@@ -1,0 +1,40 @@
+
+.panel-green{
+    border-color: #5cb85c;
+}
+.panel-green > a {
+    color: #5cb85c;
+}
+.panel-green > .panel-heading{
+    background-color: #5cb85c;
+    color: white;
+}
+.panel-yellow {
+    border-color: #f0ad4e;
+}
+.panel-yellow > a {
+    color: #f0ad4e;
+}
+.panel-yellow > .panel-heading{
+    color: white;
+    background-color: #f0ad4e;
+}
+.panel-red {
+    border-color: #d9534f;
+}
+.panel-red > a {
+    color: #d9534f;
+}
+.panel-red > .panel-heading{
+    background-color: #d9534f;
+    color: white;
+}
+.huge {
+    font-size: 40px;
+}
+.flot-chart{
+    height: 400px;
+}
+#placeholder{
+    height: 400px;
+}

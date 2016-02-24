@@ -20,6 +20,7 @@
     "bootstrap": "^3.3.6",
     "jquery": "^2.2.0",
     "font-awesome": "fontawesome#^4.5.0",
-    "Flot": "https://github.com/flot/flot.git#^0.8.3"
+    "Flot": "https://github.com/flot/flot.git#^0.8.3",
+    "morris.js": "https://github.com/morrisjs/morris.js.git#^0.5.1"
   }
 }
